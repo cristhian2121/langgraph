@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "crisbot": "./app/agent.py:graph"
+  },
+  "name": "Cris-langgraph",
+  "python": "3.11"
+}

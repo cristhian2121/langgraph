@@ -1,0 +1,7 @@
+name: multi-agents
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - poetry
+prefix: /opt/miniconda3/envs/multi-agents
